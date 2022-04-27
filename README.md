@@ -1,2 +1,1 @@
-# GSFAN
-Global-Guided Selective Feature Aggregation Network For Pansharpening 
+Pansharpening based on Cross-modal Feature Guidance and Hierarchical Feature Aggregation 
