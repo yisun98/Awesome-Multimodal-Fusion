@@ -1,1 +1,1 @@
-Pansharpening based on Cross-modal Feature Guidance and Hierarchical Feature Aggregation 
+Dual-stream Fusion Network for Pan-sharpening (Updating). 
