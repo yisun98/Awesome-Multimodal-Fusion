@@ -18,7 +18,7 @@
 2. Advantanges
 
 3. Disadvantages
-   难以解决   [迁移性弱]
+   难以解决鸟瞰视角下的一些挑战；   [迁移性弱]
 #### Detection Scene (UAV-based, Task-orientated, More Complex Scene)
 
    关键问题
