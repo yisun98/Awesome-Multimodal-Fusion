@@ -1,4 +1,6 @@
-### RGB-Infrared/Thermal Fusion
+## Multispectral-Panchromatic Fusion (Pan-sharpening)
+
+## RGB-Infrared Fusion
 
 ### Dataset
 1. DroneVieche 
